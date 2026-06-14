@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/recuerdos-borrados-por-el-viento/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Recuerdos borrados por el viento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/recuerdos-borrados-por-el-viento/) |
+| **Get License** | [Official Music Licensing for Recuerdos borrados por el viento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/recuerdos-borrados-por-el-viento/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f4de0a88aaae8833f6410448ff68cfa5355d20d85876e15b79152fc3ffd1d90a` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

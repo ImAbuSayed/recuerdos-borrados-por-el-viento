@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Recuerdos borrados por el viento
+
+This log tracks the cryptographic history and versioning for the song **Recuerdos borrados por el viento** (recuerdos-borrados-por-el-viento).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T21:18:07.216557 | `v1` | `f4de0a88aaae8833f6410448ff68cfa5355d20d85876e15b79152fc3ffd1d90a` | `5115e1a809c167e62086d950119e500dea8580d222d2c836b5c69909d329b7d8` | `2026-06-14_recuerdos-borrados-por-el-viento-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
