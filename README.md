@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/recuerdos-borrados-por-el-viento/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Recuerdos borrados por el viento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/recuerdos-borrados-por-el-viento/) |
+| **Get License** | [Get License For Recuerdos borrados por el viento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/recuerdos-borrados-por-el-viento/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esta noche la calle me llama, pero yo solo pienso en ti
+> El viento borró los recuerdos, pero tu aroma sigue aquí
+> Quemando la ruta en el coche, buscando la forma de huir
+> Baby, tú eres mi locura, la nena que me hace vivir
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
